@@ -1,35 +1,27 @@
 # Phạm Văn Dư
 
-**Software Engineer / Fullstack Developer**  
-📫 Email: [phamvandu77tphcm@gmail.com](mailto:phamvandu77tphcm@gmail.com) • 📍 Vị trí: TP. Thủ Đức, TP. Hồ Chí Minh • 🌐 [GitHub](https://github.com/VanDu178)
+**Software Engineer**  
+📞 SĐT/Zalo: 0379614995 • 📫 Email: [phamvandu77tphcm@gmail.com](mailto:phamvandu77tphcm@gmail.com) • 📍 Vị trí: TP. Thủ Đức, TP. Hồ Chí Minh
 
 ---
 
 ### Giới thiệu
-Kỹ sư phần mềm với hơn 1 năm kinh nghiệm thực tế trong phát triển và vận hành hệ thống CRM quy mô lớn phục vụ ngành giáo dục (>10 microservices, 50 modules, >100 RESTful APIs). Có khả năng làm việc trọn vẹn quy trình (end-to-end), từ phân tích bài toán, thiết kế kiến trúc kỹ thuật đến tối ưu hóa cơ sở dữ liệu và vận hành hệ thống.
+Kỹ sư phần mềm với hơn 1 năm kinh nghiệm thực tế trong phát triển và vận hành hệ thống CRM trong lĩnh vực giáo dục với quy mô hơn 10 microservices, hơn 50 modules, hơn 100 RESTful APIs. Có khả năng làm việc trọn vẹn quy trình (end-to-end), từ phân tích nghiệp vụ, thiết kế kiến trúc kỹ thuật đến tối ưu hóa cơ sở dữ liệu và vận hành hệ thống.
 
-- **Định hướng:** Microservices, System Design, Monorepo và Tối ưu cơ sở dữ liệu.
-- **Học vấn:** Cử nhân Công nghệ Thông tin – Trường Đại học Sài Gòn (SGU) | TOEIC: 660.
+- **Học vấn:** Cử nhân Công nghệ Thông tin – Trường Đại học Sài Gòn (SGU)
+- **Chứng chỉ:** TOEIC: Nghe & Đọc 660 điểm.
 
 ---
 
 ### Kỹ năng chuyên môn
 
-**Ngôn ngữ & Frontend**  
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,tailwind&size=32" />  
-- TypeScript, JavaScript (ES6+), React, Next.js, Vue.js, Tailwind CSS, Ant Design, TanStack Query, Redux Toolkit, Zustand.
-
-**Backend & Kiến trúc**  
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,socketio&size=32" />  
-- Node.js, Express.js, NestJS, RESTful APIs, Webhooks, Socket.IO, Zod, Microservices, Monorepo.
-
-**Cơ sở dữ liệu & Caching**  
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma&size=32" />  
-- PostgreSQL, MySQL, MongoDB, Redis, Prisma ORM, TypeORM.
-
-**DevOps & Hạ tầng**  
-<img src="https://skillicons.dev/icons?i=docker,githubactions,nginx,linux,aws&size=32" />  
-- Docker, PM2, GitHub Actions (CI/CD), Nginx, Linux/VPS, AWS (EC2, S3, RDS).
+| Lĩnh vực | Biểu tượng | Công nghệ & Công cụ |
+| :--- | :--- | :--- |
+| **Ngôn ngữ** | <img src="https://skillicons.dev/icons?i=ts,js&size=28" /> | TypeScript, JavaScript (ES6+) |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind&size=28" /> | React, Next.js, Vue.js, Tailwind CSS, Ant Design, TanStack Query, Redux Toolkit, Zustand |
+| **Backend & Kiến trúc** | <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,socketio&size=28" /> | Node.js, Express.js, NestJS, RESTful APIs, Webhooks, Socket.IO, Zod, Microservices, Monorepo |
+| **Database & Caching** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma&size=28" /> | PostgreSQL, MySQL, MongoDB, Redis, Prisma ORM, TypeORM |
+| **DevOps & Hạ tầng** | <img src="https://skillicons.dev/icons?i=docker,githubactions,nginx,linux,aws&size=28" /> | Docker, PM2, GitHub Actions (CI/CD), Nginx, Linux/VPS, AWS (EC2, S3, RDS) |
 
 ---
 
@@ -52,11 +44,4 @@ Kỹ sư phần mềm với hơn 1 năm kinh nghiệm thực tế trong phát tr
 - **Tối ưu hóa:** Tối ưu các truy vấn SQL phức tạp, thiết kế cấu trúc database index, nâng cao hiệu năng tìm kiếm và quản lý triển khai qua PM2.
 - **Stack:** TypeScript, Node.js, Express.js, React, TanStack Query, Ant Design, MySQL, Socket.IO, PM2.
 
----
 
-### Thống kê GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VanDu178&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Thống kê GitHub" height="140" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanDu178&layout=compact&theme=default&hide_border=true" alt="Ngôn ngữ sử dụng" height="140" />
-</p>
